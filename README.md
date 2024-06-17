@@ -1,6 +1,6 @@
 ##  Isvarya Thenappan - Data Enthusiast
 
-I'm a recent engineering graduate with a strong passion for data analysis. Throughout my career, I've demonstrated proficiency in taking ownership and collaborating effectively within teams. My background spans various domains, from benefits operations support to working across educational institutions in the UK. 
+I'm an engineering graduate with a strong passion for data analysis. Throughout my career, I've demonstrated proficiency in taking ownership and collaborating effectively within teams. My background spans various domains, from benefits operations support to working across educational institutions in the UK. 
 
 **Seeking a Career Change in Data Analysis**
 
