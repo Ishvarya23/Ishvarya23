@@ -4,7 +4,7 @@ I'm an engineering graduate with a strong passion for data analysis. Throughout 
 
 **Seeking a Career Change in Data Analysis**
 
-I'm currently enrolled in a 12-week intensive data skills bootcamp with JustIT to solidify my foundation and transition into the data field.  I'm actively working on personal projects to further develop my data analysis skillset.
+I finished a 12-week intensive data skills bootcamp with JustIT to solidify my foundation and transition into the data field.  I'm actively working on personal projects to further develop my data analysis skillset.
 
 My goal is to secure a **junior data analyst role or an apprenticeship** where I can leverage my existing skills and gain hands-on experience in a challenging environment. I'm eager to learn and grow as a data analyst.
 
